@@ -62,6 +62,5 @@
 
 	wp_footer();
 ?>
-<div>hihihaha</div>
 </body>
 </html>

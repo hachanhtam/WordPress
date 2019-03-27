@@ -121,4 +121,4 @@ if ( is_singular() && get_option( 'thread_comments' ) ) {
 		</div><!-- #masthead -->
 	</div><!-- #header -->
 
-	<div id="main"><div>hihihaha</div>
+	<div id="main">
